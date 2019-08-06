@@ -18,6 +18,9 @@ Table of Contents:
 
 -------------------------------------------------------------------------------- */
 
+.leader {
+	width: 32.33%;
+}
 /* ----------------------------------------------------------------------------- */
 /* --- 1. DOCUMENT SETUP
 /* ----------------------------------------------------------------------------- */
@@ -1417,7 +1420,7 @@ Table of Contents:
 	/* Icons
 	-------------------------------------------- */
 
-	.icon-box { display: inline-block; margin-bottom: 30px; }
+	.icon-box { display: inline-block; margin-bottom: 30px; width: 33.33%; }
 	.icon-box .icon { margin-bottom: 10px; }
 	.icon-box .title { display: block; }
 
@@ -2141,6 +2144,13 @@ Table of Contents:
 		-webkit-animation-name: scrolling;
 	    animation-name: scrolling;
 	}
+
+	/*CUSTOM CSS PARAMETERS*/
+
+	
+
+
+
 
 	@-webkit-keyframes scrolling {
 	  0% {
